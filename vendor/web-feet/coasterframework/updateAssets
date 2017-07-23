@@ -1,0 +1,5 @@
+#!/usr/bin/env php
+<?php
+
+echo "This script is deprecated, you should now run: php artisan coaster:update-assets \n";
+
